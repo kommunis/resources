@@ -8,4 +8,6 @@
 
 ### Notes
 
-- [O que é dialética](./notes/dialetica.md)
+- [O que é dialética?](./notes/dialetica.md)
+
+
